@@ -7,6 +7,8 @@ A script that replaces the deafult QBCore notification system to a NoPixel Inspi
 * [qb-core](https://github.com/qbcore-framework/qb-core)
 
 ## Insert into @qb-core --> client --> functions.lua
+Replace lines 87 to 114
+
 ```
 function QBCore.Functions.Notify(text, texttype, length)
     exports['qb-notify']:Notify(text, texttype, length)
