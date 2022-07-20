@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'nuga#5889'
+author 'nuga#0001'
 description 'A NoPixel Inspired Notification System Made For QBCore'
 version 'Release'
 
